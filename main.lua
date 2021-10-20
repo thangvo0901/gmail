@@ -1,2 +1,3 @@
 function
+  alert()
   end
